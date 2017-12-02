@@ -69,4 +69,4 @@ Allow: /wp-admin/admin-ajax.php
 Clean-Param: utm_source&utm_medium&utm_campaign
 Clean-Param: openstat
 
-Host: zdm-immobilien.de
+Host: zdm-immobilien.com
